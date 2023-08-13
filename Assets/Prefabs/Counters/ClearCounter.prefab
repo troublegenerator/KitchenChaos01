@@ -209,6 +209,16 @@ PrefabInstance:
       propertyPath: clearCounter
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 767232295086882831, guid: 0004cb1e11ad014419b943c7da960724,
+        type: 3}
+      propertyPath: visualGameObjectArray.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 767232295086882831, guid: 0004cb1e11ad014419b943c7da960724,
+        type: 3}
+      propertyPath: visualGameObjectArray.Array.data[0]
+      value: 
+      objectReference: {fileID: 1949717609300294280}
     - target: {fileID: 4589716710238282922, guid: 0004cb1e11ad014419b943c7da960724,
         type: 3}
       propertyPath: m_Name
@@ -271,3 +281,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0004cb1e11ad014419b943c7da960724, type: 3}
+--- !u!1 &1949717609300294280 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8489276541531669327, guid: 0004cb1e11ad014419b943c7da960724,
+    type: 3}
+  m_PrefabInstance: {fileID: 7980714838737795527}
+  m_PrefabAsset: {fileID: 0}
